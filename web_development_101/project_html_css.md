@@ -1580,6 +1580,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [David's solution (Easy)](https://github.com/winfliix/google-homepage/)  - [View in Browser](https://winfliix.github.io/google-homepage/)
 * [JoKing's solution (Easy)](https://github.com/joking3000/google-homepage) - [View in Browser](https://joking3000.github.io/google-homepage/)
 * [JoKing's solution (Difficult)](https://github.com/joking3000/google-search-results) - [View in Browser](https://joking3000.github.io/google-search-results/)
+
 *[Thomas's solution (Easy)] (https://thomas66690801.github.io/google-homepage/)
 *[Thomas's solution (difficult)] (https://thomas66690801.github.io/google.com-search-results-page/)
 
